@@ -25,8 +25,8 @@ Breakdown the expected TPS in excel sheet and find out the actual TPS.
    - https://docs.google.com/spreadsheets/d/1wIqLRiBU9KuppycbVe3B80Ym-cuQTBpy1zNMeQxv1HU/edit?usp=sharing
  
 ## Load Test Strategy Report 
+![Load-Test-Strategy](https://user-images.githubusercontent.com/78273243/215336855-8df38233-1740-471a-bce2-9dbe5854e80a.jpg)
 
-![Load-Test-Strategy](https://user-images.githubusercontent.com/78273243/215329887-5d9c1918-4bd8-44d6-8639-f48a92070b85.jpg)
 
 ## Stress Test Strategy Report
 
